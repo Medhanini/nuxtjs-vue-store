@@ -1,0 +1,333 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Essaouira",
+            "short_name" : "Essaouira",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Essaouira",
+            "short_name" : "Essaouira",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Marrakesh-Safi",
+            "short_name" : "Marrakesh-Safi",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Maroc",
+            "short_name" : "MA",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "44000",
+            "short_name" : "44000",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Stéphane LAURENT Et Natacha SCHOPPE 802-01 lot Azlef، \u003cspan class=\"locality\"\u003eEssaouira\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e44000\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMaroc\u003c/span\u003e",
+      "formatted_address" : "Stéphane LAURENT Et Natacha SCHOPPE 802-01 lot Azlef، Essaouira 44000, Maroc",
+      "formatted_phone_number" : "05247-85823",
+      "geometry" : {
+         "location" : {
+            "lat" : 31.504315,
+            "lng" : -9.757574
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 31.5056703302915,
+               "lng" : -9.756241119708495
+            },
+            "southwest" : {
+               "lat" : 31.5029723697085,
+               "lng" : -9.758939080291499
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "bdf339a5a94b3d1b7959466eae5bdfee5978ddc8",
+      "international_phone_number" : "+212 5247-85823",
+      "name" : "L'Immobilière d'Essaouira",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1400"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1400"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1400"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1400"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1400"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lundi: 09:00 – 12:00, 14:00 – 18:00",
+            "mardi: 09:00 – 12:00, 14:00 – 18:00",
+            "mercredi: 09:00 – 12:00, 14:00 – 18:00",
+            "jeudi: 09:00 – 12:00, 14:00 – 18:00",
+            "vendredi: 09:00 – 12:00, 14:00 – 18:00",
+            "samedi: 09:00 – 12:00",
+            "dimanche: Fermé"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1152,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101267424452913014208\"\u003eL&#39;Immobilière d&#39;Essaouira\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAALu8_cW7aBHlZDTgxVn4aqqQgJd_R-jSfmZ1AOzbJXaOVi3SFnpxZgHjtd3gH19XK3ofxPb2VnB5WNM3XGh1IovaYBg0Q9MDTufO1n4VAa7AN2Rf-dUx0GPHMMIz0SC7JEhAaN-y4UPeoCq6wZkRdvcY3GhTRbyYWJ09idTHlX19n0J2E-NvkZA",
+            "width" : 2048
+         },
+         {
+            "height" : 3072,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101267424452913014208\"\u003eL&#39;Immobilière d&#39;Essaouira\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAdOgSgfk3i4WVfp6pDkT4Nx3zPYfsNm-8qoYDU_yWF7LHXYbEMgid2UKW2bXVwzZbufKoiYeFXdt7Zjnkft8hgH24tVKXWX4gORQcsxxy7iSgnEYJdF0377Ay4U2JiH0GEhCLsOw06CFU5PTDmCBqHCImGhT8460R0WvAkX3ujp_ERR8ZpTxOjg",
+            "width" : 4608
+         },
+         {
+            "height" : 1152,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105201380992236460505\"\u003eMichel Fillacier\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAIsMrUpm0Tf-sxbnsbaHclBNS5apb9sdXj6PWzc_HK-RMNjTkKlTfpIKh5qd3JpqZTM91iy4p6S1VVXm0BmIx4IQbJHkPJAnDYizXXFuKPlFAUPkEmLCwBO0BXbk3S73CEhCIxKlKYj9vXPexzvPVdj9ZGhR0BqWQrWmX_R6rQO3OZp4ek4e-PQ",
+            "width" : 2048
+         },
+         {
+            "height" : 3750,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101267424452913014208\"\u003eL&#39;Immobilière d&#39;Essaouira\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAsIPTj_a1k7IgIimHZiRT4iJiSJouMjmDapakg6uz_RSTRuBwpNzpsIUeZLnG6PEAuseiy0nqcXuRzWXBa7TqDacMM1gKy76mKoNdzFzA91GWrBJUnr-sAEQcwLYYdDKyEhAgneX-QTtFb3ktZP38KxPdGhQG-4_BhPXodh6cBpzYNg7ZvGKv5Q",
+            "width" : 2268
+         },
+         {
+            "height" : 1152,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105201380992236460505\"\u003eMichel Fillacier\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAXBt1LnO1x0OZTntEnTCtHFpJJIBHjp8tXmWHO3VrFA3ZbhdfT-HED5YFo4DbzCknxyQRvzPKU9a78ek4DTt-KOO4-JsECF__Pyn4Dw7Iq3USsJ4aSkdGLYSXySsdmRGWEhA2KkteqSk9Pk9D2BoeeJdHGhTs0D5JDBjZV0Vj_MSP1DuCDJ2DhA",
+            "width" : 2048
+         },
+         {
+            "height" : 1080,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101267424452913014208\"\u003eL&#39;Immobilière d&#39;Essaouira\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAjI5GfouarUmOP53qK8DXr1Wqt9MbPN-VOEa498Kx_fnfRHdWEN-CQnW0Yt7bKAC9zk56oFd-m_FziPDc7_-DlpocP_NYDEUMSjHVxPBbUm1WqqRsUlXnXc_ZF4f_6l1wEhAjsmSOv4fy2CQDIxK-uKcVGhRCOfWOFHjGWcqB6YP28BHHPDOnHA",
+            "width" : 1133
+         },
+         {
+            "height" : 4608,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101267424452913014208\"\u003eL&#39;Immobilière d&#39;Essaouira\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAGUDTSw3fjMuaDjj9pM7rbae4bj8Lau3ACf1t6qnTFL6DpDXHqXbJxuRPuCPEdzEsuI6EqXQrZxNhMzRJnFYm49j5BNAaPcnR0tCzd_xqEINPiXn0PRO3szPA6VTp6D-nEhA_cQboeq-BLVlDfRyHiA_yGhTx_z64W8-8-OQu5wAfQEcA2vebgw",
+            "width" : 3072
+         },
+         {
+            "height" : 1024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101267424452913014208\"\u003eL&#39;Immobilière d&#39;Essaouira\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAA82FNxVjZQwovF1WbfhKsIMH8zVmUlh-wVrOH-xb4UIFHiyd8cJIakQIjT9r-0iV4mVuDukKed-WO_VqkyFUvMh6wLru0qYajcSCxre2dCdwEIcm2Tpsg9RqR-uLWW7r0EhCowajhAnqq1TvYVtvrQ8avGhSTMscMKWXspo7ZcufB-QPmqLjqrg",
+            "width" : 768
+         },
+         {
+            "height" : 1152,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105201380992236460505\"\u003eMichel Fillacier\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAA36UVIRQtKSDEeVPACdFIMzKac3yC_7Q5qQXFUfap_IE2Kg9YdZS9ubq69YfHBm_xK3RLjKGAEX_jLzxKsi52tzC7NiW2l9iOOtlQbIW4ttxcp2lFAed-wfzdQPONNjoAEhDPU-cdE9prjfjepGSH0hkPGhRw8wC9e5loVUhlARC4DTn3jVBGcg",
+            "width" : 2048
+         },
+         {
+            "height" : 1152,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105201380992236460505\"\u003eMichel Fillacier\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAA_DcMvuTsMbvRI-Q41vuKGLpfo32ZpBLBzVspLUiVC5_j82L_CBTL6Rw88LoxyOpllpomXahS-sPHYXdpSkWtZxh-7zJYVaakpwk_UFwwt7Ux4RY7qjBiCGKM2S7utjXkEhDgTpNFA6UMP72qVcnEiXSkGhROJNxwIOaxm-SeilJfp97wu_LNqQ",
+            "width" : 2048
+         }
+      ],
+      "place_id" : "ChIJQc8hbUiarQ0R4H-Uc3WW1OY",
+      "plus_code" : {
+         "compound_code" : "G63R+PX Essaouira, Maroc",
+         "global_code" : "8C3GG63R+PX"
+      },
+      "rating" : 4.7,
+      "reference" : "ChIJQc8hbUiarQ0R4H-Uc3WW1OY",
+      "reviews" : [
+         {
+            "author_name" : "Benjamin Farré",
+            "author_url" : "https://www.google.com/maps/contrib/108851726245815018852/reviews",
+            "language" : "fr",
+            "profile_photo_url" : "https://lh6.ggpht.com/-fgA4SttLTAY/AAAAAAAAAAI/AAAAAAAAAAA/h5AmCbCDORE/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "il y a 2 mois",
+            "text" : "Excellente expérience avec l’immobilière d'Essaouira. Nous sommes passés 2 fois par eux pour nos vacances d'été et à chaque fois cela a été parfait. Aussi bien au niveau des villas proposées que des services et conseils prodigués. \nUn merci spécial à Greg pour sa gentillesse et sa réactivité à chaque fois que nous l'avons sollicité",
+            "time" : 1570548241
+         },
+         {
+            "author_name" : "karim miri",
+            "author_url" : "https://www.google.com/maps/contrib/110739911350441982266/reviews",
+            "language" : "fr",
+            "profile_photo_url" : "https://lh6.ggpht.com/-gZN4drgtv-U/AAAAAAAAAAI/AAAAAAAAAAA/hBPU_JooChk/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "il y a 4 mois",
+            "text" : "Nous sommes un couple avec trois enfants ( 13, 10 et 5 ans ) nous  avons sollicité cette agence immobilière pour une location saisonnière, nous avons exprimé nos souhaits et un budget a respecter . La première la location proposée était  la bonne et même au delà  de nos  attentes car  le séjour se fut  inoubliable . Nous tenons à remercier cette agence et plus  particulièrement Greg pour son professionnalisme, sa réactivité et sa gentillesse  . Il nous a accompagné pour préparer ce séjour à Essaouira, nous a donné toutes les bonnes adresses, les endroits a visités, les activités pour les enfants et aussi les bons restos. Merci encore Greg.",
+            "time" : 1566422612
+         },
+         {
+            "author_name" : "Solange Arcamone",
+            "author_url" : "https://www.google.com/maps/contrib/117158608820497843630/reviews",
+            "language" : "fr",
+            "profile_photo_url" : "https://lh6.ggpht.com/-cWuF94EdhSM/AAAAAAAAAAI/AAAAAAAAAAA/sNbRdQSKhbI/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "il y a 2 mois",
+            "text" : "Le temps n'a pas d'emprise sur l'Immobilière d' Essaouira ! Voilà deux fois que je traite avec  cette agence pour achat et revente du même produit et toujours le même dynamisme, la même réactivité. Et en bonus, l'écoute et le suivi bienveillant de Stéphane Laurent. Autant dire que c'est une agence incontournable à Essaouira. Stéphane, vous faites partie de mes meilleurs souvenirs du Maroc. Un grand merci !",
+            "time" : 1570693295
+         },
+         {
+            "author_name" : "sylvie",
+            "author_url" : "https://www.google.com/maps/contrib/104373228408801887963/reviews",
+            "language" : "fr",
+            "profile_photo_url" : "https://lh4.ggpht.com/-3qS2-gwj80A/AAAAAAAAAAI/AAAAAAAAAAA/0bIbbd4yLPg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "il y a 3 semaines",
+            "text" : "Très bon accueil juste passée en prévision location future merci à Greg et Natasha pour leurs conseils et gentillesse",
+            "time" : 1575132153
+         },
+         {
+            "author_name" : "Khadija El Hatimy",
+            "author_url" : "https://www.google.com/maps/contrib/116989612218829547768/reviews",
+            "language" : "fr",
+            "profile_photo_url" : "https://lh3.ggpht.com/-C1G1yuaprU0/AAAAAAAAAAI/AAAAAAAAAAA/NeFow8kWwLw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "il y a 3 semaines",
+            "text" : "Professionnalisme, rigueur et ponctualité. L'équipe est à écoute du client.\n\nmerci à toute équipe :-)",
+            "time" : 1574754883
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [
+         "real_estate_agency",
+         "general_contractor",
+         "point_of_interest",
+         "establishment"
+      ],
+      "url" : "https://maps.google.com/?cid=16633084754980536288",
+      "user_ratings_total" : 60,
+      "utc_offset" : 60,
+      "vicinity" : "Stéphane LAURENT Et Natacha SCHOPPE 802-01 lot Azlef, Essaouira",
+      "website" : "http://www.immobiliere-essaouira.com/"
+   },
+   "status" : "OK"
+}
